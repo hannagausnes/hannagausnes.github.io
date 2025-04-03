@@ -12,5 +12,3 @@ In this blog, I’ll document my journey through the course. I’ll share:
 My goal is to not just understand deep learning better, but to actually use it - whether that’s for personal projects, research, or future work. Hopefully, this blog can also be useful for others who are curious about AI or just starting their own learning journey.
 
 Thanks for reading, and stay tuned for more posts!
-
-- Hanna
