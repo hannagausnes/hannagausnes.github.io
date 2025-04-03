@@ -1,4 +1,4 @@
-# Why I’m Taking the FastAI Course
+# Why I’m Taking the FastAI Course ⁉️
 Hi, and welcome to my blog!
 
 I’ve always been curious about how machines can learn from data—and how we, as humans, can teach them to do things like recognize images, generate text, or even make decisions. That curiosity led me to the FastAI course, which promises to make deep learning more accessible and practical.
